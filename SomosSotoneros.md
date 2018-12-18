@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Somos Sotoneros
+subtitle: Lessons
 permalink: /somossotoneros/
 ---
 

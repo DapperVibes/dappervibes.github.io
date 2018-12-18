@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: Somos Sotoneros
+  link: /somossotoneros/
+- name: Los Sotoneros
+  link: /lossotoneros/
+- name: Rueda in Progress
+  link: /ruedainprogress/
