@@ -2,7 +2,7 @@
 layout: post
 title:  "Partner changes in Mixta"
 date:   2018-12-16 23:11:01 +0000
-categories: progress
+categories: [progress, mixta]
 ---
 
 Here are the different modes of partner changes in Rueda Mixta.
