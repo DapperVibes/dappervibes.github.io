@@ -4,7 +4,20 @@
 
 layout: home
 ---
-[![Somos](/assets/SomosSotonerosWeb.png)](/somossotoneros)
-[![Los](/assets/LosSotonerosWeb.png)](/losssotoneros){: .center-image }
+<div style="text-align: center">  <a href="/somossotoneros"><img src="/assets/SomosSotonerosWeb.png"></a> <a href="/lossotoneros"><img src="/assets/LosSotonerosWeb.png"></a> </div>
 
-Head over to <a href="/ruedainprogress"> Rueda in Progress </a> for information about the evolution of Rueda concepts.
+<p>  </p>
+
+<p>  </p>
+
+## What is Rueda de Casino?
+
+Rueda de Casino is a dynamic social dance that can be described as a cross between barn dancing and Salsa. It comes from Cuba and every move you learn here can help with your Casino or Salsa style for partner dancing. No partner necessary.
+
+## Why learn Rueda de Casino?
+
+* Great exercise and functio
+* Challenge both your body and you mind
+* Dance relieves stress
+* Increases social confidence for any dance floor
+* Great way to meet new people
