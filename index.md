@@ -6,9 +6,7 @@ layout: home
 ---
 <div style="text-align: center">  <a href="/somossotoneros"><img src="/assets/SomosSotonerosWeb.png"></a> <a href="/lossotoneros"><img src="/assets/LosSotonerosWeb.png"></a> </div>
 
-<p>  </p>
-
-<p>  </p>
+<br>
 
 ## What is Rueda de Casino?
 
@@ -21,3 +19,6 @@ Rueda de Casino is a dynamic social dance that can be described as a cross betwe
 * Dance relieves stress
 * Increases social confidence for any dance floor
 * Great way to meet new people
+
+<br>
+<br>
