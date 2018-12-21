@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The 2018-2019 team"
+title:  "The 2018-2019 Los Sotoneros team"
 date:   2018-12-16 23:11:01 +0000
 categories: lossotoneros
 ---

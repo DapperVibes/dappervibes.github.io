@@ -11,7 +11,7 @@ A few months ago I made a video about partner changes in Rayas grandes. I'll bot
 
 
 
-[Mixta]({% post_url 2018-12-20-Partner-changes-in-mixta %}) is a formation where half of the couples are facing in (Adentro) and half are facing out (Afuera). This means that leads are back to back with other leads and follows are back to back with other follows. If you focus on just one pair of couples you have a two couple Torno Rueda. There are many ways of looking at this interaction, but I think following the rules of Rueda Torno is the most consistent approach. The image below shows the two positions for a two couple Torno Rueda, Luminoso and Foco.
+[Mixta]({% post_url 2018-12-20-Rueda-mixta-basics %}) is a formation where half of the couples are facing in (Adentro) and half are facing out (Afuera). This means that leads are back to back with other leads and follows are back to back with other follows. If you focus on just one pair of couples you have a two couple Torno Rueda. There are many ways of looking at this interaction, but I think following the rules of Rueda Torno is the most consistent approach. The image below shows the two positions for a two couple Torno Rueda, Luminoso and Foco.
 
 ![Rayas grandes](/assets/RayasGrandes.png)
 
