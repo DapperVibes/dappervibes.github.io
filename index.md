@@ -16,11 +16,17 @@ Rueda de Casino is a dynamic social dance that can be described as a cross betwe
 
 ## Why learn Rueda de Casino?
 
-* Great exercise and fun activity
-* Challenge both your body and you mind
+* Great exercise for your body and fun activity
+* Exercise your mind and keep up with the calls
 * Dance relieves stress
 * Increases social confidence for any dance floor
 * Great way to meet new people
+
+<br>
+
+## Why Rueda.Life and [Rueda in Progress](ruedainprogress)?
+
+I have the greatest respect for the [Rueda Standard](rueda.casino) and felt that there needed to be a complimentary site for Rueda concepts still under evolution. I also draw a lot of inspiration for José Barretto and [Boston rueda](https://bostonrueda.com/). This website is a place for articles and perspectives on the evolution and state of the art in Rueda de Casino and I hope others will contribute insightful articles over time.
 
 <br>
 <br>
