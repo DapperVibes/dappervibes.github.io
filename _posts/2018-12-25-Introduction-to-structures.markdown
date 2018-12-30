@@ -20,9 +20,9 @@ Rueda structures are the latest evolution in Rueda de Casino. A structure is a c
 
 <br>
 
-I view these structures from a scientific or programming point of view. The structure defines how the couples and their transitions relate to each other. Each structure has an enchufala, but that framework defines who moves where when it is called.
+While I appreciate the artistry of theses structures, I also view them a scientific or programming point of view. The structure defines how the couples and their transitions relate to each other. Each structure has an enchufala, but that framework defines who moves where when it is called.
 
-In this new paradigm a normal Rueda (Rueda pa'fuera) is a structure and on top of that structure is layered the Rueda calls. Therefore the only rule associated with the Rueda pa'fuera structure is that a Dame style move the leads move to the follow to their right.
+In this new paradigm a normal Rueda (Rueda pa'dentro) is a structure and on top of that structure is layered the Rueda calls. Therefore the only rule associated with the Rueda pa'dentro structure is that, in a Dame style move, the leads move to the follow to their right.
 
 Other structures such as Mixta, redefine partner changes for a subset of the dancers. An enchufala in Mixta requires the follows to move in half of the couples, so the structure redefines an element of all basic Rueda calls, acting as a modifier to those calls.
 
