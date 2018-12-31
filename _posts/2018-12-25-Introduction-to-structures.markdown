@@ -9,7 +9,7 @@ Rueda structures are the latest evolution in Rueda de Casino. A structure is a c
 
 <div style="text-align: center">
 <img src="/assets/RuedaLlanta.png" alt="Rueda Llanta" width="150"/>
-<a href="{% post_url 2018-12-20-Rueda-mixta-basics %}"><img src="/assets/RuedaMixta.png" alt="Rueda Mixta" width="150"/></a>
+<img src="/assets/RuedaMixta.png" alt="Rueda Mixta" width="150"/>
 <img src="/assets/TornoFoco.png" alt="Torno Foco" width="150"/>
 <img src="/assets/TornoLuminoso.png" alt="Torno Luminoso" width="150"/>
 <img src="/assets/TornoMixta.png" alt="Torno Mixta" width="150"/>

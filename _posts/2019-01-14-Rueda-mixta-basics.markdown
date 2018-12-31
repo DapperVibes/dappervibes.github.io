@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rueda Mixta basics"
-date:   2018-12-16 23:11:01 +0000
+date:   2019-01-16 23:11:01 +0000
 categories: [progress, mixta]
 ---
 

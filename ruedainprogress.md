@@ -30,18 +30,18 @@ Peace, love, Rueda,
 {% endfor %}
 </ul>
 
-## Rueda Mixta
+<!-- ## Rueda Mixta
 
 <ul>
 {% for post in site.categories.mixta %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-</ul>
+</ul> -->
 
-## Rayas Grandes
+<!-- ## Rayas Grandes
 
 <ul>
 {% for post in site.categories.rayasgrandes %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
-</ul>
+</ul> -->
