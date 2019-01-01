@@ -47,7 +47,6 @@ Beyond their teaching they also put on a mean party. I was honored to help them 
 * Upcoming Festival lessons
   * [RuedaCation](https://www.facebook.com/events/242353136454911/) in Playa Del Mar, Mexico - Feb 17-24 2019
   * [Rueda Fest](https://www.facebook.com/events/2167220066833036/) in Brighton, UK - April 26–28 2019
-  * [SalsaNor Rueda Congress](https://www.facebook.com/events/333130483922882/) in Bergen, Norway - Sept 5-8 2019
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2497.8711704626!2d-0.32707458423985386!3d51.23986747959211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2de0df40ee84d6d7!2sLincoln+Arms+Hotel+%26+Bar!5e0!3m2!1sen!2suk!4v1546366175353" width="700" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
