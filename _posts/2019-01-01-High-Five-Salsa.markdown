@@ -9,7 +9,7 @@ categories: Schools
 
 I visited UK's High Five Salsa for ringing in 2019. This school is run by Diego Fuentes Utrilla and Noe Roderick and is based in Dorking, which is nearish Gatwick. It wasn't that easy to get to by public transit from Southampton, but three trains and a bus got me to town. Noe & Diego have hit the international scene hard lately with their [passion for Rueda Switch](#Switch), teaching in Boston, Playa Del Carmen, and soon in Bergen, Norway.
 
-<div style="text-align: center">  <img src="/assets/Diego.png"><img src="/assets/Noe.png"> </div>
+<div style="text-align: center">  <img src="/assets/Diego.PNG"><img src="/assets/Noe.PNG"> </div>
 
 <br>
 
