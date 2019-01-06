@@ -21,6 +21,8 @@ This is the page for the Rueda de Casino instruction in Southampton called Somos
 
 ### Classes are on Mondays from 19:00 - 22:00
 
+### [Important news about January Classes]({% post_url 2019-01-01-January-Lesson-Update %})
+
 Taught in partnership with [SalsaSoc](https://www.susu.org/groups/salsa-society) but open to the public
 
 Location: Wessex Lane Boiler Room, SO18 2NU ([see map](#Map))
