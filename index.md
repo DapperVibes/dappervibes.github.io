@@ -8,7 +8,7 @@ layout: home
 
 <br>
 
-# [Important news about January Classes]({% post_url 2019-01-01-January-Lesson-Update %})
+# [Important news about reduced length January Classes]({% post_url 2019-01-01-January-Lesson-Update %})
 
 ## What is Rueda de Casino?
 
