@@ -11,11 +11,11 @@ It's the slow exam season, and instead of cancelling lessons SalsaSoc has decide
 
 ### Monday the 7th of January
 
-All level Rueda lesson from 20:00 - 21:00
+All level Rueda lesson from 20:00 - 21:00. [Facebook Event](https://www.facebook.com/events/2053812544697489/?event_time_id=2053812598030817)
 
 ### Monday the 14th of January
 
-All level Rueda lesson from 20:00 - 21:00
+All level Rueda lesson from 20:00 - 21:00 [Facebook Event](https://www.facebook.com/events/2053812544697489/?event_time_id=2053812601364150)
 
 ### Monday the 21st of January
 
