@@ -9,7 +9,7 @@ layout: home
 <meta name="yandex-verification" content="f832fc0027156f9c" />
 <br>
 
-# [Important news about reduced length January Classes]({% post_url 2019-01-01-January-Lesson-Update %})
+# Rueda classes back to normal this week
 
 ## What is Rueda de Casino?
 
