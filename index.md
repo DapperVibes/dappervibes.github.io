@@ -6,6 +6,7 @@ layout: home
 ---
 <div style="text-align: center">  <a href="/somossotoneros"><img src="/assets/SomosSotonerosWeb.png"></a> <a href="/lossotoneros"><img src="/assets/LosSotonerosWeb.png"></a> </div>
 
+<meta name="yandex-verification" content="f832fc0027156f9c" />
 <br>
 
 # [Important news about reduced length January Classes]({% post_url 2019-01-01-January-Lesson-Update %})
