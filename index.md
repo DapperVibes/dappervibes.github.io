@@ -11,7 +11,7 @@ layout: home
 
 ## What is Rueda de Casino?
 
-Rueda de Casino is a dynamic social dance that can be described as a cross between barn dancing and Salsa. It comes from Cuba and every move you learn here can help with your Casino or Salsa style for partner dancing. No partner is necessary as dancers are constantly changing partners throughout the dance. 
+Rueda de Casino is a dynamic social dance that can be described as a cross between barn dancing and Salsa. It comes from Cuba and every move you learn here can help with your Casino or Salsa style for partner dancing. No partner is necessary as dancers are constantly changing partners throughout the dance.
 
 <br>
 
@@ -22,6 +22,11 @@ Rueda de Casino is a dynamic social dance that can be described as a cross betwe
 * Dance relieves stress
 * Increases social confidence for any dance floor
 * Great way to meet new people
+
+<br>
+
+<div style="text-align: center">
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsotoneros%2Fvideos%2F322063698507834%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe> </div>
 
 <br>
 
