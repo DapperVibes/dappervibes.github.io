@@ -7,11 +7,11 @@ permalink: /events/
 Here is a list of upcoming events in the UK and abroad that involve rueda de casino.
 
 April 2019  
-Rueda Fest UK (Brighton)  
+26-28 Rueda Fest UK (Brighton)  
 <https://www.facebook.com/events/2167220066833036/?ti=cl>
 
 May 2019  
-Cuban Salsa Holiday Eastbourne  
+3-5 Cuban Salsa Holiday Eastbourne  
 <https://www.facebook.com/events/1920473171392107/?ti=cl>
 
 25-26 RuedX Montreal (invitation only, ping me if interested)
