@@ -37,3 +37,7 @@ September 2019
 January 2020  
 ABCD (London)  
 <https://www.facebook.com/events/2157737020986651/?ti=cl>
+
+May 2929
+29-31 Rueda Fest UK (Brighton)
+https://www.facebook.com/ruedafestuk/
