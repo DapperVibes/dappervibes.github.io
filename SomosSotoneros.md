@@ -21,7 +21,7 @@ This is the page for the Rueda de Casino instruction in Southampton called Somos
 
 ### Classes are on Mondays from 19:00 - 22:00
 
-### We are currently in the Easter break, but will resume on April 29th
+## Monday April 29th theme is Rueda Caminando
 
 Taught in partnership with [SalsaSoc](https://www.susu.org/groups/salsa-society) but open to the public
 
