@@ -4,7 +4,7 @@ title: Rueda Code of Etiquette
 permalink: /ruedacode/
 ---
 
-## For social ruedas:
+### For social ruedas:
 
 -	Always watch a rueda before joining and ensure you know the moves being called.
 -	If a rueda is above your level and you don’t recognise the calls do not join
@@ -31,3 +31,8 @@ permalink: /ruedacode/
 *	Don’t back-lead moves. Unless you are a teaching assistant avoid teaching your partner.
 *	Don’t assume you are correct and everyone else is mistaken.
 *	Enjoy class!
+
+### Further reading
+[TOWARD A RUEDA DE CASINO ETIQUETTE: KNOWING WHEN AND WHEN NOT TO JOIN A RUEDA](https://sonycasino.com/2017/08/11/toward-a-rueda-de-casino-etiquette-knowing-when-and-when-not-to-join-a-rueda/), Son y Casino blog
+[Rueda Culture](http://rueda.casino/rueda-culture/), Rueda.Casino
+[Rueda etiquette](http://www.kapitisalsa.com/rueda-etiquette.html), Kapti Salsa
