@@ -33,6 +33,6 @@ permalink: /ruedacode/
 *	Enjoy class!
 
 ### Further reading
-[TOWARD A RUEDA DE CASINO ETIQUETTE: KNOWING WHEN AND WHEN NOT TO JOIN A RUEDA](https://sonycasino.com/2017/08/11/toward-a-rueda-de-casino-etiquette-knowing-when-and-when-not-to-join-a-rueda/), Son y Casino blog
-[Rueda Culture](http://rueda.casino/rueda-culture/), Rueda.Casino
-[Rueda etiquette](http://www.kapitisalsa.com/rueda-etiquette.html), Kapti Salsa
+[TOWARD A RUEDA DE CASINO ETIQUETTE: KNOWING WHEN AND WHEN NOT TO JOIN A RUEDA](https://sonycasino.com/2017/08/11/toward-a-rueda-de-casino-etiquette-knowing-when-and-when-not-to-join-a-rueda/), Son y Casino blog  
+[Rueda Culture](http://rueda.casino/rueda-culture/), Rueda.Casino  
+[Rueda etiquette](http://www.kapitisalsa.com/rueda-etiquette.html), Kapti Salsa  
