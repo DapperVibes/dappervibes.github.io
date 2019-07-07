@@ -19,28 +19,13 @@ This is the page for the Rueda de Casino instruction in Southampton called Somos
 
 <br>
 
-### Classes are on Mondays from 19:00 - 22:00
+### During July and August classes are on Mondays from 19:30 - 18:30
 
-## Monday April 29th theme is Rueda Caminando
+Location: Chuch hall for Immaculate Conception Portswood ([see map](#Map))
 
-Taught in partnership with [SalsaSoc](https://www.susu.org/groups/salsa-society) but open to the public
+Prices: £4.00 - 1 Hour
 
-Location: Wessex Lane Boiler Room, SO18 2NU ([see map](#Map))
-
-Prices: £3.00 - 1 Hour : £4.50 - 2 Hours : £6.00 - 3 Hours
-
-Parking is available along Wessex Lane.
-
-<br>
-
-#### 19:00 - Fundamentals of Casino - [Curriculum](#Fundamentals)
-Learn the basic casino moves, the footwork, and the rhythm required to join a beginner Rueda.
-
-#### 20:00 - Level 1 - [Curriculum](#Level1)
-Covering the common moves from the [Rueda Standard](http://rueda.casino/ruedastandard/) that will allow you to join a social Rueda anywhere in the globe, plus some local favorites. Requires confidence in the fundamentals.
-
-#### 21:00 - Level 2 - [Curriculum](#Level2)
-More advanced Rueda moves taught at a slightly faster pace, requires confidence in Level 1.
+Parking is available behind the church.
 
 <br>
 
@@ -51,8 +36,8 @@ More advanced Rueda moves taught at a slightly faster pace, requires confidence 
 <script>
 // Initialize and add the map
 function initMap() {
-// The location of Uluru,
-var boilerroom = {lat: 50.938172, lng: -1.378008};
+// The location of Uluru
+var boilerroom = {lat: 50.929889, lng: -1.384459};
 // The map, centered at Uluru
 var map = new google.maps.Map(
   document.getElementById('map'), {zoom: 15, center: boilerroom});
