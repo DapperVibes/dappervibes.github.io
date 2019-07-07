@@ -2,7 +2,7 @@
 layout: post
 title:  "Who is my p'abajo, p'arriba, and p'arriba mentira partner?"
 date:   2019-07-01 19:00:00 +0000
-categories: ruedainprogress
+categories: progress
 ---
 
 As you all know, I love the logic behind rueda calls and one topic that I find particularly fascinating is the wide variety of partner changes that can be applied to the same move. I'm going to focus here on four partner change instructions that can be applied to almost any rueda move. This is my personal philosophy based on discussions with many different rueda instructors and it may be that your local cantante calls these differently. Please let me know what you think of my logic.

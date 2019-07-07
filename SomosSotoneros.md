@@ -29,7 +29,7 @@ Parking is available behind the church.
 
 <br>
 
-### Location of The Boiler Room where lessons take place
+### Location of The Immaculate Conception Church Hall where lessons take place
 {: #Map }
 <!--The div element for the map -->
 <div id="map"></div>
