@@ -9,3 +9,7 @@ categories: ruedainprogress
 * Blowing minds with exhibala
 * Small dynamica calls
 * Mixta clasico vs mixta dynamico
+* Infinita
+* Llanta
+* Moebius
+* Caminando

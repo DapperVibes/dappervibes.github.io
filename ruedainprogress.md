@@ -10,7 +10,10 @@ I have utmost respect for the [Rueda standard](http://rueda.casino/standard), bu
 
 Come back soon for posts and videos on:
 
-* Rueda Dynamica
+* The difference between Tarro and Dame
+* Blowing minds with exhibala
+* Small dynamica calls
+* Mixta clasico vs mixta dynamico
 * Infinita
 * Llanta
 * Moebius
