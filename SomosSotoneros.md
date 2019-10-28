@@ -17,39 +17,9 @@ permalink: /somossotoneros/
 
 This is the page for the Rueda de Casino instruction in Southampton called Somos Sotoneros, which is tied closely to the performance team Los Sotoneros.
 
-<br>
+## Fall lessons are taking place now at the University of Southampton Students Union.
 
-### During July and August classes are on Mondays from 19:30 - 18:30
-
-Location: Chuch hall for Immaculate Conception Portswood ([see map](#Map))
-
-Prices: £4.00 - 1 Hour
-
-Parking is available behind the church.
-
-<br>
-
-### Location of The Immaculate Conception Church Hall where lessons take place
-{: #Map }
-<!--The div element for the map -->
-<div id="map"></div>
-<script>
-// Initialize and add the map
-function initMap() {
-// The location of Uluru
-var boilerroom = {lat: 50.929889, lng: -1.384459};
-// The map, centered at Uluru
-var map = new google.maps.Map(
-  document.getElementById('map'), {zoom: 15, center: boilerroom});
-// The marker, positioned at Uluru
-var marker = new google.maps.Marker({position: boilerroom, map: map});
-}
-</script>
-<script async defer
-src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDhzmeOcUdJYa-zCeTMyPYQZPguT687y7U&callback=initMap">
-</script>
-
-<br>
+For the most up to date information please check the lesson Facebook Event. https://www.facebook.com/events/693893231095225/
 
 ### Fundamentals of Casino Curriculum
 {: #Fundamentals }
