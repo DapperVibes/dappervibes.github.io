@@ -19,7 +19,7 @@ This is the page for the Rueda de Casino instruction in Southampton called Somos
 
 ## Fall lessons are taking place now at the University of Southampton Students Union.
 
-For the most up to date information please check the lesson Facebook Event. https://www.facebook.com/events/693893231095225/
+For the most up to date information please check the lesson Facebook Event. [https://www.facebook.com/events/693893231095225/](https://www.facebook.com/events/693893231095225/)
 
 ### Fundamentals of Casino Curriculum
 {: #Fundamentals }
